@@ -1,0 +1,7 @@
+pgdata/
+.env
+env/
+config/
+.vscode/
+__pycache__/
+.zip
