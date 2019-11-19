@@ -19,7 +19,7 @@ dag = DAG('googleads-etl', catchup=False, default_args=default_args)
 
 SOURCE_CONN_ID = 'campaigner_googleads'
 S3_CONN_ID = 'campaigner_s3'
-S3_BUCKET = 'cmp_googleads'
+S3_BUCKET = 'cmpetl'
 
 reports_to_add = [    
     {   #Ad

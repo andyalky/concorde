@@ -56,4 +56,4 @@ Extra Params:
 - [ ] Refactor the operator so that you inherit from a base class (so you can reuse base class for different operators)
 
 ## The crew in the cockpit ##
-Concorde was designed by Andrew Alkhouri (@andyalky) through work done at Campaigner (campaigner.com). You can connect with him on LinkedIn at www.linkedin.com/in/andyalky.
+Concorde was designed by Andrew Alkhouri (@andyalky). You can connect with him on LinkedIn at www.linkedin.com/in/andyalky.
